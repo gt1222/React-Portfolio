@@ -7,6 +7,7 @@ export const About = () => {
 <div className="row featurette ">
       <div className="col-md-7 order-md-2 my-5" >
         <h2 className="featurette-heading fw-normal lh-1 text-center">Welcome to my Page!</h2>
+        <p className="lead">Hi my name is Gia and I'm an aspiring web developer. This is my demo portfolio of some of my favorite projects and how to reach me.</p>
         <p className="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque qui, dolore, sed velit voluptas rem sunt, placeat quod perspiciatis esse harum tenetur laudantium alias enim magnam quibusdam expedita eaque asperiores.</p>
       </div>
       <div className="col-md-5 order-md-1">

@@ -4,7 +4,7 @@ export const Nav = ({page, pages, setPage}) => {
     return (
         <nav className="navbar navbar-dark navbar-expand-lg bg-dark">
         <div class="container-fluid">
-    <a className="navbar-brand" onClick={() => setPage(pages[0])}>Gia</a>
+    <a className="navbar-brand fs-1" onClick={() => setPage(pages[0])}>Gia</a>
     <div className="navbar navbar-dark" id="navbarNav">
       <ul className="navbar-nav">
         <li className="nav-item">
