@@ -22,9 +22,9 @@ export const Contact = () => {
             <input type="email" class="form-control rounded-3" id="floatingEmail" placeholder="email"/>
             <label for="floatingEmail">Email</label>
           </div>
-          <div class="form-floating mb-5">
-            <textarea type="text" class="form-control rounded-3" id="floatingText" rows="3" placeholder="message"></textarea>
-          </div>
+          <div class="form-floating mb-3">
+      <textarea class="form-control" id="floatingMessage" type="text" placeholder="Message" style={{height: "10rem"}}>Message</textarea>
+    </div>
           <button class="w-100 mb-2 btn btn-lg rounded-3 btn-dark" type="submit" >Submit</button>
         </form>
       </div>
