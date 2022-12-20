@@ -17,9 +17,12 @@ The application will be invoked by using the following command:
 ```bash
 npm start
 ```
-
+![Home page of my portfolio](portfolio/src/images/home.png)
+![3 projects displayed with links](portfolio/src/images/projects.png)
+![Contact Form with name, email and message](portfolio/src/images/contact.png)
+![Demo Resume page with placeholder info](portfolio/src/images/resume.png)
 
 ## Links
-
+[Deployed Link](https://gt1222.github.io/React-Portfolio/)
 
 [Github](https://github.com/gt1222/React-Portfolio)
